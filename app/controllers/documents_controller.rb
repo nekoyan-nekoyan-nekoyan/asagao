@@ -5,6 +5,6 @@ class DocumentsController < ApplicationController
   end
   
   def help
-    @message = "こんばんは！"
+    @message = "こんばんは！other"
   end
 end
